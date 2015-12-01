@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0c07608ba91ba2841bf024cbe5a31a84
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - P_stamina: {fileID: 13200000, guid: 57f52f06ab12b634fb3e67dd881a7812, type: 2}
+  - P_health: {fileID: 13200000, guid: 35a0674915088fc47ae8e3305ec97593, type: 2}
+  - P_essence: {fileID: 13200000, guid: ae6b837f9a317564fa0d0c45a173ec8c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
